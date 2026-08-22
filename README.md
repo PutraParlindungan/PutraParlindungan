@@ -2,10 +2,10 @@
 
 Perkenalkan nama saya **Putra Parlindungan**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Mahasiswa** di Universitas Gunadarma.<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saya mengambil jurusan Informatika karena tertarik dengan AI.<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya juga sedang ikut program Asah Led by Dicoding dari bulan agustus sampai januari.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/putra-parlindungan-677972376/))ku ya.
